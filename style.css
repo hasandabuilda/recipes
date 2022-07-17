@@ -1,0 +1,35 @@
+h1 {
+    background-color: aqua;
+    color: red;
+    font-family: 'Helvetica', sans-serif;
+    text-align: center;
+}
+
+li {
+    font-family: sans-serif;
+    background-color: orchid;
+    text-align: left;
+}
+
+ul {
+    background-color: greenyellow;
+}
+
+em,
+a {
+    background-color: black;
+    color: white;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+p {
+    color: orange;
+}
